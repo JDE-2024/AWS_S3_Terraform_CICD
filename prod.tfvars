@@ -1,2 +1,2 @@
 bucket_env = "prod"
-bucket_name = "sctp-ce3-group1-bucket"
+bucket_name = "ce3-group1-bucket-final"
