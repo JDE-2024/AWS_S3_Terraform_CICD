@@ -1,4 +1,4 @@
-![branch](https://github.com/sharil12/Group1_Capstone_Project/assets/137068325/35e35530-3125-40ad-bff6-87bb63c1ead3)# (SCTP) Cloud Infrastructure Engineering Capstone Project Group 1
+# (SCTP) Cloud Infrastructure Engineering Capstone Project Group 1
 
 ## Case 1: DevOps (Static Website)
 
