@@ -1,4 +1,4 @@
-# (SCTP) Cloud Infrastructure Engineering Capstone Project Group 1
+![branch](https://github.com/sharil12/Group1_Capstone_Project/assets/137068325/35e35530-3125-40ad-bff6-87bb63c1ead3)# (SCTP) Cloud Infrastructure Engineering Capstone Project Group 1
 
 ## Case 1: DevOps (Static Website)
 
@@ -55,14 +55,13 @@ The AWS Cloud Architecture consists of the following:
 -   It is typically protected, meaning that direct commits or modifications are restricted, and changes can only be introduced through pull requests after thorough code review and testing.
 
 ## Workflow Management
-![branch](https://github.com/sharil12/Group1_Capstone_Project/assets/137068325/5628e659-7ca8-4a15-af6c-4b8344c9f852)
 
-<br> The workflow from Feature branch to prod:</br> 
-<br> from dev branch, create a feature branch as feature test br by doing `git checkout dev  --> git checkout -b feature/feature test br ` &nbsp; &nbsp;
-from the feature branch, add our code changes or amendment e.g. new lines in terraform or new files </br>
-<br> Perform code commit for example as `git add . --> git commit -m "Testing branching approval" --> git push` &nbsp; &nbsp; </br>
-<br>From github console, create a new pull request from `feature/new-code` to `dev`  , get the approval and merge the pull request. this will trigger a deployment in `dev` </br>
-<br> Deploy to uat, from your github console, create a new pull request from `dev` to `uat` , get the approval and merge the pull request. this will trigger a deployment in `uat` </br> 
+![updated brancj](https://github.com/sharil12/Group1_Capstone_Project/assets/137068325/ee37aa08-2a50-4384-abb9-5d5f2a033963)
+
+<br> The workflow from dev branch to prod:</br> 
+<br> from dev branch, create a pull request to get the state of the code of the dev branch. Our code changes or amendment, is pushed directly to branch </br>
+<br> Perform code commit for example as `git add . --> git commit -m "push to dev" --> git push` &nbsp; &nbsp; </br>
+<br> From github console, create a new pull request from `dev/new-code` to `uat`  , get the approval and merge the pull request. this will trigger a deployment in `uat` </br>
 <br> to deploy to prod, from your github console, create a new pull request from `uat` to `prod` , get the  approvals and merge the pull request. this will trigger a deployment in `prod` </br>
 
 ### Approval Processes (Branch Protections)
