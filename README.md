@@ -6,7 +6,7 @@
 ![group1](https://github.com/sharil12/Group1_Capstone_Project/assets/137068325/69fdc467-9a0c-42d0-852e-bfba91720490)
 
 
-**From blueprint to blast-off in record time.** We're the DevOps alchemists, transforming your ideas into lightning-fast, scalable websites that leave the competition in the dust. Launching your dream into the cloud? 
+**From blueprint to blast-off in record time.** We're the DevOps alchemists, transforming your ideas into lightning-fast, scalable websites that leave the competition in the dust. Thinking of launching your dream into the cloud? 
 
 **GroupOne** is your launchpad. We combine cutting-edge DevOps practices with AWS Cloud agility to build and scale your website for rapid growth. We harness the power of DevOps and AWS Cloud to deliver efficient, reliable, and cost-effective web solutions. Streamline your workflow, enhance performance, and ensure constant uptime with our expertise in automation, infrastructure management, and cloud security.
 
