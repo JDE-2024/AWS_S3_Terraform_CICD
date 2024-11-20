@@ -1,6 +1,8 @@
 # (SCTP) Cloud Infrastructure Engineering Capstone Project Group 1
 
 ## Case 1: DevOps (Static Website)
+### [Project Presentation Slides](https://github.com/JDE-2024/AWS_S3_Terraform_CICD/blob/dev/SCTP-%20Cohort%203%20Group%201%20Capstone%20Slides.pdf)
+
 
 # Company Profile
 ![group1](https://github.com/sharil12/Group1_Capstone_Project/assets/137068325/69fdc467-9a0c-42d0-852e-bfba91720490)
